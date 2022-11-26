@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyZakat</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="About_text"><a href="https://github.com/MrAntiFun11/Zakat_Apps">Source Code Link</a></string>
+    <string name="developer1">NAME: SHARIFAH NADZIRAH BINTI SYED ADNAN</string>
+    <string name="devId1">STUDENT ID: 2020865812</string>
+    <string name="group">GROUP: CS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+    <string name="stline">_____________________________________________ </string>
+</resources>

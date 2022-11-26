@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="About_text"><a href="https://github.com/MrAntiFun11/Zakat_Apps">Source Code Link</a></string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+    <string name="app_name">MyZakat</string>
+    <string name="devId1">STUDENT ID: 2020865812</string>
+    <string name="developer1">NAME: SHARIFAH NADZIRAH BINTI SYED ADNAN</string>
+    <string name="group">GROUP: CS2405A</string>
+    <string name="stline">_____________________________________________ </string>
+    <style name="Theme.MyZakat" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
